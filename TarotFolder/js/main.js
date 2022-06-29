@@ -75,4 +75,5 @@ function reversedOrNot(){
         document.querySelector('img').classList.toggle('orientation')
     }
 }
-reversedOrNot()
+
+reversedOrNot() 
